@@ -2,6 +2,7 @@
 
 <div align="center">
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-apex--game.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://apex-game.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.42%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-Multi--Agent_Ensemble-purple?style=for-the-badge&logo=openai&logoColor=white)
@@ -13,7 +14,7 @@
 
 **Transforming a classic game into an advanced showcase of Statistical Machine Learning, Empirical Game Theory, and Autonomous Multi-Agent Systems.**
 
-[Explore Live Demo](#-quick-start) • [System Specifications](specs.md) • [AI Architecture](#-agentic-ai-architecture) • [Hire Developer](#-developed-by-hadi-seelro)
+[🚀 **Try Live Web App**](https://apex-game.streamlit.app/) • [System Specifications](specs.md) • [AI Architecture](#-agentic-ai-architecture) • [Hire Developer](#-developed-by-hadi-seelro)
 
 </div>
 
@@ -105,7 +106,21 @@ $$P_{\text{ensemble}}(M_t) = w_{\text{Markov}}(n) \cdot P_{\text{Markov}}(M_t) +
 
 ---
 
-## 🚀 Quick Start
+## 🌐 Live Web Demo
+
+You can experience and interact with the Autonomous Agent and 24/7 AI Concierge right now in your browser without local installation:
+
+<div align="center">
+
+[![Play Live on Streamlit Cloud](https://img.shields.io/badge/Play_Live_Now-https%3A%2F%2Fapex--game.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://apex-game.streamlit.app/)
+
+👉 **Direct URL:** [https://apex-game.streamlit.app/](https://apex-game.streamlit.app/)
+
+</div>
+
+---
+
+## 🚀 Quick Start (Local Setup)
 
 ### 1. Clone the Repository
 ```bash

@@ -73,6 +73,7 @@ DEVELOPER_PROFILE = {
     ),
     "contact": {
         "status": "Available for Freelance Projects, AI Consulting & Full-time Engineering Roles",
+        "live_demo": "https://apex-game.streamlit.app/",
         "github": "https://github.com/SainBux-HadiSeelro/apex-game",
         "linkedin": "https://linkedin.com",
     }
