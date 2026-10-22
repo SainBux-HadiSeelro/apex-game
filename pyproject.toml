@@ -1,0 +1,10 @@
+[project]
+name = "apex-rps-autonomous-agent"
+version = "2.0.0"
+description = "ApexRPS: Autonomous Agentic Decision Platform & 24/7 Live AI Concierge engineered by Hadi Seelro"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.42.0",
+    "pandas>=2.2.0",
+]
